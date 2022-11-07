@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\4_104\4_104\bin\Debug\net6.0\4_104.exe
+C:\Users\user\source\repos\4_104\4_104\bin\Debug\net6.0\4_104.deps.json
+C:\Users\user\source\repos\4_104\4_104\bin\Debug\net6.0\4_104.runtimeconfig.json
+C:\Users\user\source\repos\4_104\4_104\bin\Debug\net6.0\4_104.dll
+C:\Users\user\source\repos\4_104\4_104\bin\Debug\net6.0\4_104.pdb
+C:\Users\user\source\repos\4_104\4_104\obj\Debug\net6.0\4_104.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\4_104\4_104\obj\Debug\net6.0\4_104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\4_104\4_104\obj\Debug\net6.0\4_104.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\4_104\4_104\obj\Debug\net6.0\4_104.AssemblyInfo.cs
+C:\Users\user\source\repos\4_104\4_104\obj\Debug\net6.0\4_104.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\4_104\4_104\obj\Debug\net6.0\4_104.dll
+C:\Users\user\source\repos\4_104\4_104\obj\Debug\net6.0\refint\4_104.dll
+C:\Users\user\source\repos\4_104\4_104\obj\Debug\net6.0\4_104.pdb
+C:\Users\user\source\repos\4_104\4_104\obj\Debug\net6.0\4_104.genruntimeconfig.cache
+C:\Users\user\source\repos\4_104\4_104\obj\Debug\net6.0\ref\4_104.dll
